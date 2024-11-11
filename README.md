@@ -84,7 +84,7 @@ Since the objective of this analysis was to compare the Ad Creatives and identif
 
 - Video Ads: 2.55%
 
-![3 CTR by Ad Creative](https://github.com/user-attachments/assets/3ae501f5-6569-4b91-81bf-3189e916c261)
+![CTR by Ad Creative](https://github.com/user-attachments/assets/fd87e56d-baaf-4706-ac61-0d3bb64d5240)
 
 Carousel Ads have the highest CTR, indicating they are slightly more engaging in terms of encouraging clicks.
 
@@ -96,7 +96,7 @@ Carousel Ads have the highest CTR, indicating they are slightly more engaging in
 
 - Carousel Ads: $0.388
 
-![6 CPC by Ad Creative](https://github.com/user-attachments/assets/934bc182-0a5c-46f2-ac38-01dca1466b12)
+![CPC by Ad Creative](https://github.com/user-attachments/assets/0efe1465-90de-4059-8e0f-eb04530804a2)
 
 Image Ads have the lowest CPC, making them the cheapest option for driving clicks, but the difference is minimal.
 
@@ -108,7 +108,7 @@ Image Ads have the lowest CPC, making them the cheapest option for driving click
 
 - Carousel Ads: $9.82
 
-![7 CPM by Ad Creative](https://github.com/user-attachments/assets/19ab777c-68c4-4188-aafb-398e281649f3)
+![CPM by Ad Creative](https://github.com/user-attachments/assets/a7f0501c-a6a8-42fd-b51c-08b4d848a1a2)
 
 Video Ads have the lowest CPM, making them the most cost-effective option for impressions.
 
@@ -120,7 +120,7 @@ Video Ads have the lowest CPM, making them the most cost-effective option for im
 
 - Image Ads: $4.03
 
-![5 Cost per Action or Conversion (CPA) by Ad Creative](https://github.com/user-attachments/assets/ceb5dc4a-2535-408d-8e64-3b4638bf469c)
+![CPA by Ad Creative](https://github.com/user-attachments/assets/5e59088b-eb94-489d-a16e-83e92565ff98)
 
 Video Ads have the lowest CPA, meaning they are the most cost-effective at generating conversions.
 
@@ -132,7 +132,7 @@ Video Ads have the lowest CPA, meaning they are the most cost-effective at gener
 
 - Image Ads: 10.23%
 
-![4 Conversion Rate by Ad Creative](https://github.com/user-attachments/assets/2f332500-72b9-4be2-bfdf-04a7fd299c4f)
+![Conversion Rate by Ad Creative](https://github.com/user-attachments/assets/96a09a2c-4d5c-44ec-be2b-ad39c3ea2bf8)
 
 Video Ads have the highest conversion rate, indicating they are the most effective at converting clicks into acquisitions.
 
@@ -163,3 +163,9 @@ Image Ads have the lowest CPC, but their slightly higher CPA and lower conversio
 - Periodically update video ad creatives to prevent ad fatigue and maintain audience interest.
 
 By focusing on Video Ads and incorporating these strategies, Fitrack can maximize the effectiveness of its future advertising campaigns, ensuring efficient use of resources and a higher return on investment.
+
+## More Looker Studio Samples
+
+[**GA4 E-Commerce Dashboard**](https://lookerstudio.google.com/u/0/reporting/7767f410-1843-4d05-a6b1-3d6e08c717db/)
+
+[**Multi-Channel PPC Dashboard**](https://lookerstudio.google.com/reporting/fb173bf2-9e12-44ac-845c-581faeae325c)
